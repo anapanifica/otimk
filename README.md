@@ -2,9 +2,16 @@
 
 Всего три проекта, каждый на 2-4 человека.
 
+### 1. Месопотамия
+
+
+
+
+
+
 ### 2. Древнегреческие надписи на вазах VI-V вв. до н.э.
 
-Задание состоит в разборе древнегреческих надписей на вазах из коллекции Эрмитажа. Вам будет дан словарь и учебник древнегреческого языка, с их помощью нужно будет сделать пословный перевод надписей (в описании ваз нередко даны полные переводы надписей, они вам должны помочь). Если надпись представляет собой целое предложение, то хорошо бы понять его грамматическую структуру — в каких формах стоят существительные и глаголы.
+Задание состоит в разборе древнегреческих надписей на вазах из коллекции Эрмитажа. Вам будет дан словарь древнегреческого языка, и с его помощью нужно будет сделать пословный перевод надписей (в описании ваз иногда даны полные переводы надписей, они вам должны помочь). Если надпись представляет собой целое предложение, то полезно понять его грамматическую структуру — в каких формах стоят существительные и глаголы (для этого ниже также дана ссылка на учебник).
 
 Пример:
 
@@ -13,10 +20,10 @@
 |["Ойнохоя в форме женской головы"](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20archaeological%20artifacts/411275/!ut/p/z1/pVLBVpwwFP0VNywhIRCI3eWgMrWdolNHIJs5iAFSCcGQkX5-g2cW1lYWbVZJzr3vvXvvAwwUgA3Vi2grI9RQ9fZdsuiQURr5QQKvswRfQJrtbvAu-ZZCPwT5KwB-cCgE7C2fYIogDelluMdXCIbRib8CYOv97wEDrB9aUOrjch1r8QhKEjc8qAPfjQIUuSHBkUseEXEJ9iOOcOPzplrQ9WBG04HyqZJiOuijA2eln6Yz1ZxV2jgQYc9e6q7iqletqKt--RdNVZvJgaHvoxi_l_DnjGzdoXyZ5G2F9Cq1FdLz24SEGUqJ_x6Qff4S2xZ3eJNl9wlKwhNgpck1YOJBenMtPehhhKEfnENIYhSHJFpipsNDQFrANG-45to7apt-Z8w4fXKg9WWevVaptuderaQD_0bp1GRA8TsSlNad-CN3oi0C-YvgM9gPSku7cN8XKXmyPdzuL3eW-2_Rbl4Fr6diBYgfz8-M2jVQg-E_7ez_tQe2INLbZGsdGSvTuWJoFCjWqKA4UUe530sSSLeA4kbmxJD5biMPF195Tn8BiMr-Dw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)|ΧΑΡΙΝΟΣ ΕΠΟΙΕΣΕ| *Χαρινοσ* - Харин, имя мастера; *εποιεσε* - глагол *ποιέω* 'делать' в аористе (прошедшее законченное время), 3 л., ед. ч.| Харин сделал |
 
 Обязательно нужно найти:
-* [Пелика краснофигурная](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20archaeological%20artifacts/543356/!ut/p/z1/pVLBcpswFPyVXDiCZEAgetOQBDetS-KGALp4ZCpADUIE5JDPr8j4kDYNh1YnSbP73tvdBygoAO3Zs2iYFqpnnXmXNDikhAQbL4Y3aYwuIUn3t2gff0vgxgf5KwB-cAgE9C0fI-JC4pMrP0PXLvSDM38FQNf7PwAKaNc3oBxPy3WoxA9QBl5UHRnjdu2xo-1XENuMV4EdeG4dhR7eeFG0oKteD7oF5SOTYjqMJwvOanycLlR9wUZtQRc55lK1jKtONaJi3fIvalbpyYLI9zz0TsL7Gem6Q_kyydsKyXViKiTRXYz91E3w5k9A-vlLaFrco22aPsRu7J8BK01uABVH6cyVdKCDXASNBRDi0A19HCwxk_7o4QbQkdd85KNzGk36rdbD9MmCxpd5dhqlmo47lZIW_BulVZMGxe9IUBp3wo_cCXYuyJ8Fn0HWq1Gahfu-SMnj3eEuu9ob7r9Fu30VvJ6KESB-Pj1RYtZA9Zq_mNn_aw9MQXfcxTvjyMB0a4u-VqBYo4LiTB1klknsSbuA4lbmWOP5fisPl195Tn4BUtG-HQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
+* [Пелика с ласточкой](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20archaeological%20artifacts/543356/!ut/p/z1/pVLBcpswFPyVXDiCZEAgetOQBDetS-KGALp4ZCpADUIE5JDPr8j4kDYNh1YnSbP73tvdBygoAO3Zs2iYFqpnnXmXNDikhAQbL4Y3aYwuIUn3t2gff0vgxgf5KwB-cAgE9C0fI-JC4pMrP0PXLvSDM38FQNf7PwAKaNc3oBxPy3WoxA9QBl5UHRnjdu2xo-1XENuMV4EdeG4dhR7eeFG0oKteD7oF5SOTYjqMJwvOanycLlR9wUZtQRc55lK1jKtONaJi3fIvalbpyYLI9zz0TsL7Gem6Q_kyydsKyXViKiTRXYz91E3w5k9A-vlLaFrco22aPsRu7J8BK01uABVH6cyVdKCDXASNBRDi0A19HCwxk_7o4QbQkdd85KNzGk36rdbD9MmCxpd5dhqlmo47lZIW_BulVZMGxe9IUBp3wo_cCXYuyJ8Fn0HWq1Gahfu-SMnj3eEuu9ob7r9Fu30VvJ6KESB-Pj1RYtZA9Zq_mNn_aw9MQXfcxTvjyMB0a4u-VqBYo4LiTB1klknsSbuA4lbmWOP5fisPl195Tn4BUtG-HQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
 * [Псиктер краснофигурный: Четыре гетеры](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20archaeological%20artifacts/289697/!ut/p/z0/rVDLTsMwEPyVcsitxmvHTpNjFKSKSqWoSFB8qYxxUxNju47L4-9JxAHxPHHb2d3ZmR0s8AYLJ59MK5PxTtoB34piu6rrguQNLFYNP4N6tb7k6-ZiDoThq3jECyw-LfGihhrWOSuul8DO2XjFPBwOosZCeZf0S8KbFE0IVjqnY1AZBB37UREpb61Wo3yfwdHcI0oRIXnFUFkhAgOAnCMGvECkQrSkDHFWsRlBs6nfSaXvvO-mPkXp-iCjdunj4miExmWzbLEIMu2RcTuPN_-t8jWPb6H9lEcnH02_jccMnn3s-onfTWRMGVB-OhRqL7W3vjVK2rFvBg9pCIiWVVHNfvnrL-owfaeGbn5TpvI1t-3JG5JwaJY!/)
 
-На других вазах надписи в основном номинативные, но их тоже можно включать в исследование. Чем больше материала — тем лучше.
+На других вазах надписи в основном номинативного характера, но их тоже нужно включать в исследование. Чем больше материала — тем лучше. В результате нужно будет классифицировать все найденные надписи по их содержанию и рассказать про получившиеся типы.
 
 Литература:  
 Древнегреческо-русский словарь И. Х. Дворецкого ([том 1](https://yadi.sk/i/u5bx48kKCuk1bQ), [том 2](https://yadi.sk/i/tTito03VC2LtUw), [онлайн](http://gurin.tomsknet.ru/alphaonline.html)), обратите внимание на краткий очерк грамматики С. И. Соболевского в конце второго тома  
