@@ -2,12 +2,29 @@
 
 Всего три проекта, каждый на 2-4 человека.
 
-### 1. Месопотамия
+### 1. "Стандартная надпись" Ашшурнацирапала II
+
+В коллекции Эрмитажа есть несколько плит из дворца Ашшурнацирапала II с т. н. "стандартной надписью", подробнее о ней можно прочитать, например, [здесь](https://arzamas.academy/materials/1055). Кроме того, сейчас в Эрмитаже проходит выставка "«Я воздвиг там мой царский дворец…». Памятники ассирийского искусства из коллекции Британского музея", и там наверняка тоже есть плиты со "стандартной надписью" — надо проверить. Кстати, фраза в названии выставки взята как раз из этой надписи.  
+
+Несмотря на то, что надпись стандартная, небольшие отличия между ее конкретными копиями все же есть. Ваша задача состоит в том, чтобы найти как можно больше отличий между имеющимися в Эрмитаже "стандартными надписями" и проанализировать их: это может быть различие в графике, может быть написано другое слово, может быть пропущен или утрачен какой-то кусок текста и др.  
+
+Точно нужно посмотреть:  
+* [Рельеф с изображением царя и его бога-хранителя (№1)](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20Archaeological%20Artifacts/86814/!ut/p/z1/jZBLT8MwEIT_Cj3kiL15OAm9WUailJagikfwBbmR4xglceSYRuLXYyouIAjd20gzs98u5rjEvBcHrYTTphet1888fSkoTcOYwbpg5BJosbsjO3Z7BWGCn44G-GMoYH5KfsbA5-vX_y3wF0R2y7YK80G45lz3tcFlRNAZtVUjpGmN0pVovXS6FpUbcZmn-RGN_yi_vsl8-T1ZFcUji1jyZZjH0_sOTVWHAJGIQBhfAORZlCV5-slG-32cezYra2mlRW_WP71xbhiXAQQwTRNSxqhWosp0AfwWaczocPndiYfuoXzfrOCVtIcNXSw-AArX73c!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
+* [Рельеф с изображением божества (№2)](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/25.%20archaeological%20artifacts/86816/!ut/p/z1/jY_LDoIwEEV_RT5ApyBUtk1NRBRriI_ajZkQgSZICTYu_Hob48pEdHY3OXPmDiiQoFq86wqtNi02Lp8UPQvGqD_lJBU8mhMm8m2U882C-CEcXwD5MoyA-md_AFDD-vTXAfdB0Gc8q0B1aOuxbksDMogmI-yLGi-mMZUusHHR6hILewMZ09inrpr6kC9XMyffRYkQBx7w8A0M1Ouue_lYJ0Qzz3sC5itjDA!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
+* [Рельеф с изображением божества перед священным деревом (№3)](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/06.%20sculpture/86815/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_R0dzQyNnQ28_J1NXQwc_YMCTIOc_dwNDE30w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fYWCmp1CcXJpTUFJalKofYWFmYWgKdEsUmmme3uZA00JMPfz9w5yNnE2gCvC4pyA3NKLKx8Mg01FREQCZr_jC/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
+
+Пример:  
+
+| Место| Фрагмент | Рельеф №1 | Рельеф №2 | Рельеф №3 |
+|------| ----- | -------- | --------| ----- |
+| строка 1, слово 1 | *é.gal* 'дворец' | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/E-bitu_Cuneiform.svg" width="30">𒃲 (полный вариант) | 𒐈𒃲 (нет начала первого символа) | нет начала текста |
 
 
-
-
-
+**Литература**:  
+[Транслитерация](http://oracc.museum.upenn.edu/riao/Q004477/) "стандартной надписи" (здесь можно посмотреть перевод каждого слова, кликнув по нему), перевод на английский  
+[Фрамент](https://yadi.sk/i/EZt-coqc5-MimA) из книги A. H. Layard "Inscriptions in the cuneiform character from Assyrian monuments" (1851), где показана вариативность "стандартной надписи"  
+Голенищев В. [Императорский Эрмитаж. Описание ассирийских памятников](https://yadi.sk/i/vH8WXVMArl43QA) (1897), на стр. 19-20 перевод на русский  
+[Cписок](https://en.wikipedia.org/wiki/List_of_cuneiform_signs) клинописных знаков  
 
 ### 2. Древнегреческие надписи на вазах VI-V вв. до н.э.
 
@@ -25,7 +42,7 @@
 
 На других вазах надписи в основном номинативного характера, но их тоже нужно включать в исследование. Чем больше материала — тем лучше. В результате нужно будет классифицировать все найденные надписи по их содержанию и рассказать про получившиеся типы.
 
-Литература:  
+**Литература**:  
 Древнегреческо-русский словарь И. Х. Дворецкого ([том 1](https://yadi.sk/i/u5bx48kKCuk1bQ), [том 2](https://yadi.sk/i/tTito03VC2LtUw), [онлайн](http://gurin.tomsknet.ru/alphaonline.html)), обратите внимание на краткий очерк грамматики С. И. Соболевского в конце второго тома  
 [Учебник](https://yadi.sk/i/csj7eMFinmaeMQ) древнегреческого языка. Начальный курс
 
@@ -47,6 +64,6 @@
 * [Лоренцо ди Никколо Джерини "Мадонна с Младенцем"](https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.%20paintings/29365/!ut/p/z1/jZBNT8MwDIb_Cjv0SOKmTdtxi4LEGBtBEx8hF5RB1wbWNEqzTeLXExCnCQq-WXr8-rGxwhIrq_em0cH0Vm9j_6iKJ8FYkWYc5oLTc2BidUNX_PoC0hw_fAHwSzHA6j_zI4Aaj5__tSBeQPySLxusnA7tqbGbHktI0YnTxgZjmwFLMs0KGl3UUdrlVRnTbulMiHtOeP4NjPuYdYcOzx0CRAmFNJsCVCUp86r4lGF2nVVRxteb2tce7Xz8chuCG84SSMDv0MG8GVe_GI163yTw01DbDwHLYxa77k6-L2bwSrf7BZtMPgDnvpGj/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
 * [Лукас Кранах Старший "Венера и Амур"](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.%20paintings/38772/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_R0dzQyNnQ28_J1NXQwc_YMCTIOc_dwNDE30w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fYWCop1CQmJlXkpmXXqwfYWxhbm4EdEsUmmme3uZA00JMPfz9w5yNnE2gCvC4pyA3NKLKx8Mg01FREQAmnqTC/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)
 
-Литература:  
+**Литература**:  
 Люблинская Д. А. 1969. [Латинская палеография](https://www.academia.edu/19126762/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)  
 [Статья](https://www.britannica.com/art/calligraphy/Latin-alphabet-handwriting) из энциклопедии по-английски (как минимум, посмотрите картинки)
