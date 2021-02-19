@@ -23,3 +23,35 @@ __Дополнительная литература__
 
 [Схемы](https://disk.yandex.ru/i/3NzYKDKaGUD14A) про принципы размещения иероглифов в период Среднего Царства.  
 Antonio Loprieno (1995). ["Ancient Egyptian. A Linguistic Introduction"](https://disk.yandex.ru/i/4xw1jRA3BJrHVw). Про историю развития египетского иеороглифического письма см. страницы 19-27.
+
+
+
+
+### 2. Латинские шрифты в западноевропейском искусстве
+
+Задание по палеографиии. В залах ГМИИ им. Пушкина нужно найти картины, гравюры, монеты и т.д. с надписями на латыни и определить шрифт, с помощью которого сделана каждая надпись. Затем сделать таблицу (см. образец ниже) и проанализировать, от каких параметров зависит выбор шрифта: а) регион создания, b) время создания, c) тип произведения (живопись, рельеф, др.).
+
+Пример таблицы (с картинами из Эрмитажа):
+
+| Название и автор (если есть)    | Регион  | Время | Тип произведения | Шрифт |
+| ------------- | --------| ----- | ----- | ----- |
+| ["Юноши, бросающие зерна голубям и розы свиньям"](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/11.%20textiles%2C%20tapestry/264738/!ut/p/z1/jY_LDoIwEEV_BffqFCjgtqmJiGINvrAb00XFGiwEGqN-vY1xZSI6u0nOPXMHOOTAtbiqQhhVaVHafc_DAyMkdH2KEkaDMSIsWwYZXUyQi2H3AtCXIQj4P_kOgHfrk18H7Adek9K0AF4Lcxoofawgd92hY-TNqFK2fceIWramuUPuhTjyR7YV__BOZ5H1roOYsS31KH4DHc1WUkN92eSPeYzOmPSeXSBF_A!!/dz/d5/L0lKQSEvUUt3TS80S0khL3J1/?lng=ru)| Франция | начало XVI в. | шпалера | готический шрифт (тип quadrata) |
+|  [Лукас Кранах Старший "Венера и Амур"](https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.%20paintings/38772/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi_R0dzQyNnQ28_J1NXQwc_YMCTIOc_dwNDE30w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fYWCop1CQmJlXkpmXXqwfYWxhbm4EdEsUmmme3uZA00JMPfz9w5yNnE2gCvC4pyA3NKLKx8Mg01FREQAmnqTC/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru)| Германия | 1509 г. | картина | римское квадратное капитальное письмо |
+| [Лоренцо ди Никколо Джерини "Мадонна с Младенцем"](https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.%20paintings/29365/!ut/p/z1/jZBNT8MwDIb_Cjv0SOKmTdtxi4LEGBtBEx8hF5RB1wbWNEqzTeLXExCnCQq-WXr8-rGxwhIrq_em0cH0Vm9j_6iKJ8FYkWYc5oLTc2BidUNX_PoC0hw_fAHwSzHA6j_zI4Aaj5__tSBeQPySLxusnA7tqbGbHktI0YnTxgZjmwFLMs0KGl3UUdrlVRnTbulMiHtOeP4NjPuYdYcOzx0CRAmFNJsCVCUp86r4lGF2nVVRxteb2tce7Xz8chuCG84SSMDv0MG8GVe_GI163yTw01DbDwHLYxa77k6-L2bwSrf7BZtMPgDnvpGj/dz/d5/L2dBISEvZ0FBIS9nQSEh/?lng=ru) | Италия | 1392-1411 гг. | картина | готический шрифт (тип rotunda) |
+
+**Литература**
+
+Люблинская Д. А. 1969. [Латинская палеография](https://www.academia.edu/19126762/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F)  
+[Статья](https://www.britannica.com/art/calligraphy/Latin-alphabet-handwriting) из энциклопедии по-английски (как минимум, посмотрите картинки)
+
+
+### 3. Монеты
+
+Найдите стенд с монетами "Поступления 1945-2020 гг. Западноевропейская коллекция".
+
+Часть 1. Посмотрите монеты IX-XVII вв. и определите, какой шрифт в них используется (см. материалы к заданию 2).  
+Часть 2. Прочитайте и переведите надписи на монетах.  
+Часть 3. Выделите основные типы надписей и рассклассифицируйте монеты по этим типам.  
+
+
+
